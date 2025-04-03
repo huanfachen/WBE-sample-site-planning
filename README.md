@@ -3,7 +3,7 @@ This repo contains code and data for the site selection of wastewater-based epid
 
 There are two code files:
 
-1. **estimate_population.ipynb**: code for generating the datasets of **UK_UWWT_geospatial_population_estimates.csv** and **catchment_IMD_2019_pop.csv**. Please note that this notebook has lots of dependencies. If you don't want to run this code, you can simply use the existing datasets that are in the data folder.
+1. **estimate_population.ipynb**: code for generating the datasets of **UK_UWWT_geospatial_population_estimates.csv** and **catchment_IMD_2019_pop.csv**. Please note that this notebook has lots of dependencies. You can skip this notebook and simply use the existing datasets that are in the data folder.
 2. **WBE_site_selection_maximise_coverage.ipynb**: code for site selection. 
 
 Two datasets are used:
