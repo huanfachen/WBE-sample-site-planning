@@ -1,0 +1,94 @@
+﻿ReportNetEnvelopeFileId,flarepCode,soecCapacity,soecCode,soecEndYear,soecEUFunds,soecInvCol,soecInvIAS,soecInvTp,soecJobs,soecLenghtCoCs,soecLenghtSaCs,soecLenghtStCs,soecNumbIAS,soecOpCosts,soecPeriod,soecPop,soecStartYear,soecInvComments
+27798,FI2016ART17,7100000,FIUWWINV2020,20201231,,55,,334,,,,,,334,EXP,,20200101,
+27798,FI2016ART17,7200000,FIUWWINV2021,20211231,,55,,338,,,,,,338,EXP,,20210101,
+27798,FI2016ART17,7300000,FIUWWINV2022,20221231,,55,,343,,,,,,343,EXP,,20220101,
+27796,BE-2,4026431,BEUWWINV2015_W,20151231,,42,,109.6,,,,,,,P,,20150101,"Walloon Region. Actual investments costs: sum of all final paiements of the year 2015 related to investments in collecting system (column soecInvCol) and WWTP and main sewer (column soecInvTp).
+Total investmenent costs: costs of works and costs related."
+27796,BE-1,1460000,BEUWWINV2012_B,20121231,,72.77,,0,,,,,,,P,,20120101,Brussels Region: renovation and rehabilitation of the sewer network - VAT not included
+27796,BE-1,15000,BEUWWINVRBCBOTENREUKEN_B,20201231,,6,,0,,,,,,,EXP,,20190101,Brussels Region: building new Storm Basin Ten Reuken - VAT not included
+27796,BE-1,15000,BEUWWINVRBCBOWOL_B,20231231,,71,,0,,,,,,,EXP,,20200101,Brussels Region: building new Storm Basin Woluwe- VAT not included
+27796,BE-1,15000,BEUWWINVRBCCOGEL_B,20191231,,7,,0,,,,,,,CU,,20180101,Brussels Region: building new collector Geleitsbeek - VAT not included
+28562,IT006,1200081,ITUWWINV2006,20061231,,49.857,,36.171,,,,,,,P,,20060101,
+28562,IT006,1200081,ITUWWINV2007,20071231,,49.857,,36.171,,,,,,,P,,20070101,
+28562,IT006,1200081,ITUWWINV2008,20081231,,49.857,,36.171,,,,,,,P,,20080101,
+28562,IT006,1200081,ITUWWINV2009,20091231,,49.857,,36.171,,,,,,,P,,20090101,
+28562,IT006,1200081,ITUWWINV2010,20101231,,49.857,,36.171,,,,,,,P,,20100101,
+28562,IT006,1200081,ITUWWINV2011,20111231,,49.857,,36.171,,,,,,,P,,20110101,
+28872,RO06,1339469,ROUWWINV2012_2016,20161231,292.082151,414.355089,0,280.880943,0,10533.1985,6705.328,5651.76,2007,117.595758,P,1275614,20120101,"Amount of investment whether VAT not included. Cost measures for sewerage networks, waste water treatment and waste management measures. Other taxes included: technical assistance for designing surveillance works, financial audit service projects, pumping stations, evacuation pipelines, waste collection, pipeline bypass pipes to the treatment plant."
+28872,RO06,1329205,ROUWWINV2017_2018,20181231,88.243678,313.731783,0,51.034188,0,9646.221,6752.14,4896.574,2516,50.632753,CU,1454397,20170101,"Amount of investment whether VAT not included. IAS cost are included. Cost measures with regard to sewerage networks (achievements, refurbishment, extensions), wastewater treatment plants (rehabilitation and modernization), wastewater treatment measures in terms of cost and sludge management. Other charges included: technical assistance for supervision of design work, pumping stations, collectors transfer water, generators, drain, waste collection, earthworks, pipeline supply pipeline bypass to the treatment plant plumbing, studies, monitoring, etc"
+28872,RO06,16615693,ROUWWINV2019_2023,20231231,2127.053999,2417.870166,0,768.828064,0,12430.144,18484.16,9539.08,21086,249.343553,EXP,8038781,20190101,"Amount of investment whether VAT not included. IAS cost are included. Cost measures with regard to sewerage networks (construction, extensions), wastewater treatment plants (rehabilitation and modernization), wastewater treatment measures in terms of cost and sludge management. Other charges included: pumping stations, collectors transfer water, generators, drain, waste collection, earthworks, pipeline supply pipeline bypass to the treatment plant plumbing, etc"
+28394,FRR1,103793600,FR2016,20161231,20.6,2358,553,1270,33000,11400,,,15060,,CU,68,20160101,"Fonds européen chiffre 2014, sera mis à jour par la suite"
+28394,FRR1,102755974,FR20152018,20181231,,11000,2640,6200,,,,,,,EXP,,20150101,
+27791,SK6,7299471,SKUWWINV2012_2016,20161231,,572.6,,245.4,,,,,,,P,,20120101,"investments for collecting systems and UWWTPs were divided by estimation, because they were calculated together so far; VAT is included in case the recipient of financial grant is municipality"
+27791,SK6,6244631,SKUWWINV2017_2018,20181231,,140,,60,,,,,,,CU,,20170101,"investments for collecting systems and UWWTPs were divided by estimation, because they were calculated together so far; VAT is included in case the recipient of financial grant is municipality"
+27791,SK6,6666298,SKUWWINV2019_2023,20231231,549.2,698.7,,171.3,,,,,,,EXP,,20190101,VAT is included in case the recipient of financial grant is municipality
+27798,FI2016ART17,6400000,FIUWWINV2014,20141231,,50,,307,,,,,,307,P,5470000,20140101,
+27798,FI2016ART17,6600000,FIUWWINV2015,20151231,,50,,311,,,,,,311,P,5480000,20150101,
+27798,FI2016ART17,6700000,FIUWWINV2016,20161231,,50,,316,,,,,,316,P,5495000,20160101,
+27798,FI2016ART17,6800000,FIUWWINV2017,20171231,,55,,320,,,,,,320,P,5513000,20170101,
+27798,FI2016ART17,6900000,FIUWWINV2018,20181231,,55,,325,,,,,,325,CU,,20180101,
+27796,BE-1,1460000,BEUWWINV2013_B,20131231,,72.47,,0,,,,,,,P,,20130101,Brussels Region: renovation and rehabilitation of the sewer network - VAT not included
+27796,BE-1,1460000,BEUWWINV2014_B,20141231,,73.06,,0,,,,,,,P,,20140101,Brussels Region: renovation and rehabilitation of the sewer network - VAT not included
+27796,BE-1,1460000,BEUWWINV2015_B,20151231,,61.98,,0,,,,,,,P,,20150101,Brussels Region: renovation and rehabilitation of the sewer network - VAT not included
+27796,BE-1,1460000,BEUWWINV2016_B,20161231,,61.26,,0,,,,,,,P,,20160101,Brussels Region: renovation and rehabilitation of the sewer network - VAT not included
+27796,BE-1,1460000,BEUWWINV2017_B,20171231,,51.84,,0,,,,,,,CU,,20170101,Brussels Region: renovation and rehabilitation of the sewer network - VAT not included
+27796,BE-1,1460000,BEUWWINV2018_B,20181231,,120,,0,,,,,,,CU,,20180101,Brussels Region: renovation and rehabilitation of the sewer network - VAT not included
+27796,BE-1,15000,BEUWWINVCOVERRE_B,20181231,,20,,0,,,,,,,EXP,,20110101,Brussels Region: building new collector Verrewinkelbeek - VAT not included
+28800,Lt_2018_Art_17,3582633,LTUWWINV2014_2017,20171231,,59,,20,,,,,,,P,,20140101,PVM neįskaičiuotas
+28800,Lt_2018_Art_17,3615356,LTUWWINV2018_2020,20201231,2.4375,213,,57,,,,,,,EXP,,20180101,"PVM neįskaičiuotas; ES fondų prognozė yra aiški tik vienos aglomeracijos nuotekų valyklai ir IAS informacinės sistemos diegimu, kuri apims 75 aglomeracijas. Investicijų į centralizuotų sistemų plėtrą dydis ir ES finansavimo suma bus aiškūs tik įsigaliojus Geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo pakeitimo įstatymui, po ko savivaldybės turės patikslinti aglomeracijų ribas."
+27796,BE-2,4066465,BEUWWINV2016_W,20161231,,36.3,,78.1,,,,,,,P,,20160101,"Walloon Region. Actual investments costs: sum of all final paiements of the year 2016 related to investments in collecting system (column soecInvCol) and WWTP and main sewer (column soecInvTp).
+Total investmenent costs: costs of works and costs related."
+27796,BE-2,4079697,BEUWWINV2017_W,20171231,,53.3,,67.3,,,,,,,P,,20170101,"Walloon Region. Actual investments costs: sum of all final paiements of the year 2017 related to investments in collecting system (column soecInvCol) and WWTP and main sewer (column soecInvTp).
+Total investmenent costs: costs of works and costs related."
+27796,BE-2,4108290,BEUWWINV2018_W,20181231,,42,,66,,,,,,,CU,,20180101,"Walloon Region. Estimated investments costs: sum of all final paiements of the year 2018 related to investments in collecting system (column soecInvCol) and WWTP and main sewer (column soecInvTp).
+Total investment costs: costs of works and costs related."
+28872,RO06,4539071,ROUWWINV2024_2027,20271231,1218.087519,2491.500393,0,1012.209705,0,10273.804,14854.195,7917.72,3809,259.167707,EXP,3303077,20190101,"Amount of investment whether VAT not included. Cost measures with regard to sewerage networks (achievements, refurbishment, extensions), wastewater treatment plants we (rehabilitation and modernization), wastewater treatment measures in terms of cost and waste management.  IAS cost are included. Other charges included: technical assistance for supervision of design work, pumping stations, collectors transfer water, generators, drain, waste collection, earthworks, pipeline supply pipeline bypass to the treatment plant plumbing."
+28562,IT006,13770275,ITUWWINV2012,20121231,,99.004,,81.003,,,,,,,P,,20120101,
+28562,IT006,21007863,ITUWWINV2013,20131231,,107.764,,96.77,,,,,,,P,,20130101,
+28562,IT006,47993459,ITUWWINV2014,20141231,,433.705,,206.951,,,,,,,P,,20140101,
+28562,IT006,53507335,ITUWWINV2015,20151231,,504.86,,267.106,,,,,,,P,,20150101,
+28562,IT006,93162600,ITUWWINV2016,20161231,,681.457,,567.951,2462,18352,2150,,,,P,,20160101,
+27798,FI2016ART17,7000000,FIUWWINV2019,20191231,,55,,329,,,,,,329,EXP,,20190101,
+28562,IT006,76015229,ITUWWINV2017,20171231,,726.395,,585.567,,,,,,,CU,,20170101,
+27796,BE-2,4157245,BEUWWINV2019_W,20191231,,22,,113,,,,,,,EXP,,20190101,"Walloon Region. Estimated investments costs: sum of all final paiements of the year 2019 related to investments in collecting system (column soecInvCol) and WWTP and main sewer (column soecInvTp).
+Total investment costs: costs of works and costs related."
+27796,BE-1,1460000,BEUWWINV2019_B,20231231,,600,,0,,,,,,,EXP,,20190101,Brussels Region: renovation and rehabilitation of the sewer network - VAT not included
+28454,EL_UWWTD_2018,15000000,EL_UWWTD_2018,20231231,1202.903,1413.53,,1.65,,,,,,,EXP,,20160101,"The VAT is not icluded. 
+The investment's amount includes  the investments
+for the not compliant situations and also the needs for renovation and  maintainance of the
+performance of the whole system."
+27796,BE-2,3310479,BEUWWINV2010_W,20101231,,51.7,,245.7,,,,,,,P,,20100101,"Walloon Region. Actual investments costs: sum of all final paiements of the year 2010 related to investments in collecting system (column soecInvCol) and WWTP and main sewer (column soecInvTp).
+Total investmenent costs: costs of works and costs related."
+27796,BE-2,3509534,BEUWWINV2011_W,20111231,,48.1,,214.4,,,,,,,P,,20110101,"Walloon Region. Actual investments costs: sum of all final paiements of the year 2011 related to investments in collecting system (column soecInvCol) and WWTP and main sewer (column soecInvTp).
+Total investmenent costs: costs of works and costs related."
+27796,BE-2,3742859,BEUWWINV2012_W,20121231,,48.3,,211.3,,,,,,,P,,20120101,"Walloon Region. Actual investments costs: sum of all final paiements of the year 2012 related to investments in collecting system (column soecInvCol) and WWTP and main sewer (column soecInvTp).
+Total investmenent costs: costs of works and costs related."
+27796,BE-2,3948791,BEUWWINV2013_W,20131231,,60.5,,195.5,,,,,,,P,,20130101,"Walloon Region. Actual investments costs: sum of all final paiements of the year 2013 related to investments in collecting system (column soecInvCol) and WWTP and main sewer (column soecInvTp).
+Total investmenent costs: costs of works and costs related."
+27796,BE-2,3985096,BEUWWINV2014_W,20141231,,60.3,,155.7,,,,,,,P,,20140101,"Walloon Region. Actual investments costs: sum of all final paiements of the year 2014 related to investments in collecting system (column soecInvCol) and WWTP and main sewer (column soecInvTp).
+Total investmenent costs: costs of works and costs related."
+27764,DK2016,11450300,DKUWWIN2010,20101231,,320,,160,,,,,,,P,,20100101,the division between collection systems and tretmentplant are unknown and ar estimatetet to 2/3 and 1/3
+27764,DK2016,11450300,DKUWWIN2011,20111231,,440,,220,,,,,,,P,,20110101,the division between collection systems and tretmentplant are unknown and ar estimatetet to 2/3 and 1/3
+27764,DK2016,11450300,DKUWWIN2012,20121231,,480,,240,,,,,,,P,,20120101,the division between collection systems and tretmentplant are unknown and ar estimatetet to 2/3 and 1/3
+27764,DK2016,11450300,DKUWWIN2013,20131231,,507,,253,,,,,,,CU,,20130101,the division between collection systems and tretmentplant are unknown and ar estimatetet to 2/3 and 1/3
+27764,DK2016,11307100,DKUWWIN2014,20141231,,533,,266,,,,,,,CU,,20140101,the division between collection systems and tretmentplant are unknown and ar estimatetet to 2/3 and 1/3
+27764,DK2016,11307100,DKUWWIN2015,20151231,,612,,306,,,,,,,CU,,20150101,the division between collection systems and tretmentplant are unknown and ar estimatetet to 2/3 and 1/3
+27764,DK2016,11371338,DKUWWIN2016,20161231,,510,,255,,,,,,,CU,,20160101,the division between collection systems and tretmentplant are unknown and ar estimatetet to 2/3 and 1/3
+27764,DK2016,11371338,DKUWWIN2017,20171231,,510,,255,,,,,,,EXP,,20170101,the division between collection systems and tretmentplant are unknown and ar estimatetet to 2/3 and 1/3
+27764,DK2016,11371338,DKUWWIN2018,20181231,,510,,255,,,,,,,EXP,,20180101,the division between collection systems and tretmentplant are unknown and ar estimatetet to 2/3 and 1/3
+27764,DK2016,11371338,DKUWWIN2019,20191231,,510,,255,,,,,,,EXP,,20190101,the division between collection systems and tretmentplant are unknown and ar estimatetet to 2/3 and 1/3
+27796,BE-2,4193202,BEUWWINV2020_W,20201231,,34,,83,,,,,,,EXP,,20200101,"Walloon Region. Estimated investments costs: sum of all final paiements of the year 2020 related to investments in collecting system (column soecInvCol) and WWTP and main sewer (column soecInvTp).
+Total investment costs: costs of works and costs related."
+27796,BE-2,4224828,BEUWWINV2021_W,20211231,,62,,73,,,,,,,EXP,,20210101,"Walloon Region. Estimated investments costs: sum of all final paiements of the year 2021 related to investments in collecting system (column soecInvCol) and WWTP and main sewer (column soecInvTp).
+Total investment costs: costs of works and costs related."
+27796,BE-3,5367384,BEUWWINV2016_F,20161231,,115.7,,32.8,,,,,,,P,,20160101,"Flemish Region: actual investment cost under the Optimization program (OP) (sum of all final payments of OP-projects completed by Aquafin in 2016, commissioned by the Flemish Region,  reference date 12/2016) + estimated investment costs for Asset Management-projects in 2016 (reference date 12/2016, VAT not included)."
+28562,IT006,77122215,ITUWWINV2018,20181231,,540.323,,615.155,,,,,,,CU,,20180101,
+28562,IT006,82703669,ITUWWINV2019,20191231,,513.603,,595.672,,,,,,,EXP,,20190101,
+28562,IT006,66535055,ITUWWINV2020,20201231,,431.716,,540.64,,,,,,,EXP,,20200101,
+28562,IT006,63900721,ITUWWINV2021,20211231,,308.817,,439.799,,,,,,,EXP,,20210101,
+27796,BE-3,5443038,BEUWWINV2017_F,20171231,,120,,48,,,,,,,P,,20170101,"Flemish Region: actual investment cost under the Optimization program (OP) (sum of all final payments of OP-projects completed by Aquafin in 2017, commissioned by the Flemish Region,  reference date 12/2017) + estimated investment costs for Asset Management-projects in 2017(reference date 12/2017, VAT not included)."
+27796,BE-1,360000,BEUWWINVSTEPSUD_B,20201231,,0,,100,,,,,,,CU,,20140101,Brussels Region: renovation and upgrade of the Brussels South WWTP - VAT not included
+28562,IT006,52387888,ITUWWINV2022,20221231,,295.571,,222.709,,,,,,,EXP,,20220101,
+27796,BE-3,5452092,BEUWWINV2018_F,20181231,,144.8,,29.3,,,,,,,CU,,20180101,"Flemish Region: estimated investment cost  of Optimization program-projects and Asset Management projects, sum of all final payments of projects to be completed by Aquafin in 2018, commissioned by the Flemish Region, reference date 6/2018, VAT not included"
+27796,BE-1,1100000,BEUWWINVSTEPNORD_B,20191231,,0,,7.5,,,,,,,CU,,20170101,Brussels Region: renovation and upgrade of the Brussels North WWTP - VAT not included
+28562,IT006,50660076,ITUWWINV2023,20231231,,217.944,,186.594,,,,,,,EXP,,20230101,

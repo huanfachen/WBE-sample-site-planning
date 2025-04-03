@@ -1,0 +1,12 @@
+﻿rca61DateDesignation,rcaAbsenceRisk,rcaBeginLife,rcaCode,rcaEndLife,rcaEnvDom,rcaHydraulic,rcaHydrology,rcaHyperlink,rcalsaRemarks,rcaMorphology,rcaName,rcaZtype,ReportNetEnvelopeFileId,repCode
+19970110,0,,ISLS001,,WATER,0,1,,,1,Faxafloi (Capital aerea),UWWTDLSA,27848,IS
+20081222,0,,ISLS002,,WATER,0,0,,,0,Innri Eyjafjordur (Akureyri),UWWTDLSA,27848,IS
+20091219,0,,ISLS008,,WATER,0,0,,,0,Vidtaki fyrir Akranes,UWWTDLSA,27848,IS
+20050128,0,,ISLS014,,WATER,0,0,,,0,Vidtaki fyrir Dalvik,UWWTDLSA,27848,IS
+19940517,0,,ISLS017,,WATER,0,0,,,0,Vidtaki fyrir Husavik,UWWTDLSA,27848,IS
+19960215,0,,ISLS021,,WATER,0,0,,,0,Vidtaki fyrir Alftanes,UWWTDLSA,27848,IS
+20040622,1,20040623,PTLS01,20150713,WATER,1,1,,National legal act on designation/review of receiving areas (LSA): Decreto-Lei n.º 133/2015 de 13 de julho,1,Cabo da Roca/Estoril,UWWTDLSA,28666,PT_2016
+20150713,1,20150714,PTLS01A,,WATER,1,1,,National legal act on designation/review of receiving areas (LSA): Decreto-Lei n.º 133/2015 de 13 de julho,1,Cabo da Roca/Estoril,UWWTDLSA,28666,PT_2016
+20040622,1,20040623,PTLS08,20150713,WATER,1,1,,National legal act on designation/review of receiving areas (LSA): Decreto-Lei n.º 133/2015 de 13 de julho,1,Ilha da Madeira,UWWTDLSA,28666,PT_2016
+20150713,1,20150714,PTLS08A,,WATER,1,1,,National legal act on designation/review of receiving areas (LSA): Decreto-Lei n.º 133/2015 de 13 de julho,1,Ilha da Madeira,UWWTDLSA,28666,PT_2016
+20040622,1,20040623,PTLS09,20150713,WATER,1,1,,National legal act on designation/review of receiving areas (LSA): Decreto-Lei n.º 133/2015 de 13 de julho,1,Ilha de Porto Santo,UWWTDLSA,28666,PT_2016

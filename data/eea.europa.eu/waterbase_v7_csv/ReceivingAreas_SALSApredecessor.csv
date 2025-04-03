@@ -1,0 +1,33 @@
+﻿rcaCode,rcaCodePredecessor,rcaEvolutionType,rcasalsaRemark,repCode,ReportNetEnvelopeFileId
+ESCM2011,ESCM650,AGGREGATION,"La ESCM2011 agrega y amplia la superficie de las zonas de captación ESCM650, ESCM651, ESCM652, ESCM653 y ESCM654.",1,28773
+ESRI2015,ESRI616,AGGREGATION,"La ESRI2015 agrega a las antiguas ESRI 616 y la ESRI 617,, declaradas en la misma fecha y por el mismo parámetro y afectaban a una única masa de agua.",1,28773
+ESLK2011,ESLK652,AGGREGATION,"La ESLK2011 resulta de la agregación de la ESLK650, ESLK651, ESLK652, ESLK653 Y ESLK654 e incorpora todas las masas de aguas poligonales y la líneal que configuran las Lagunas de Ruidera.",1,28773
+ESLK2011,ESLK653,AGGREGATION,"La ESLK2011 resulta de la agregación de la ESLK650, ESLK651, ESLK652, ESLK653 Y ESLK654 e incorpora todas las masas de aguas poligonales y la líneal que configuran las Lagunas de Ruidera.",1,28773
+ESLK2011,ESLK654,AGGREGATION,"La ESLK2011 resulta de la agregación de la ESLK650, ESLK651, ESLK652, ESLK653 Y ESLK654 e incorpora todas las masas de aguas poligonales y la líneal que configuran las Lagunas de Ruidera.",1,28773
+ESCM2011,ESCM651,AGGREGATION,"La ESCM2011 agrega y amplia la superficie de las zonas de captación ESCM650, ESCM651, ESCM652, ESCM653 y ESCM654.",1,28773
+ESCM2011,ESCM652,AGGREGATION,"La ESCM2011 agrega y amplia la superficie de las zonas de captación ESCM650, ESCM651, ESCM652, ESCM653 y ESCM654.",1,28773
+ESCM2011,ESCM653,AGGREGATION,"La ESCM2011 agrega y amplia la superficie de las zonas de captación ESCM650, ESCM651, ESCM652, ESCM653 y ESCM654.",1,28773
+ESCM2011,ESCM654,AGGREGATION,"La ESCM2011 agrega y amplia la superficie de las zonas de captación ESCM650, ESCM651, ESCM652, ESCM653 y ESCM654.",1,28773
+ESLK2011,ESLK651,AGGREGATION,"La ESLK2011 resulta de la agregación de la ESLK650, ESLK651, ESLK652, ESLK653 Y ESLK654 e incorpora todas las masas de aguas poligonales y la líneal que configuran las Lagunas de Ruidera.",1,28773
+ESRI2014,ESRI615,AGGREGATION,"La ESRI 2014 agrega a las antiguas ESRI614 y ESRI615 declaradas en la misma fecha y por el mismo parámetro, afectaban a una única masa de agua.",1,28773
+ESCM2013,ESCM485,AGGREGATION,La zona de captación ESCM2013 resulta de agregar las antiguas ESCM485 y ESCM486.,1,28773
+ESCM2013,ESCM486,AGGREGATION,La zona de captación ESCM2013 resulta de agregar las antiguas ESCM485 y ESCM486.,1,28773
+ESCM2014,ESCM614,AGGREGATION,La zona de captación ESCM2014 resulta de agregar las antiguas ESCM614 y ESCM615.,1,28773
+ESCM2014,ESCM615,AGGREGATION,La zona de captación ESCM2014 resulta de agregar las antiguas ESCM614 y ESCM615.,1,28773
+ESLK2011,ESLK650,AGGREGATION,"La ESLK2011 resulta de la agregación de la ESLK650, ESLK651, ESLK652, ESLK653 Y ESLK654 e incorpora todas las masas de aguas poligonales y la líneal que configuran las Lagunas de Ruidera.",1,28773
+ESRI2013,ESRI486,AGGREGATION,"La ESRI2013 agrega a las antiguas ESRI 485 y la ESRI 486, declaradas en la misma fecha y por el mismo parámetro, afectaban a una única masa de agua.",1,28773
+ESRI2014,ESRI614,AGGREGATION,"La ESRI 2014 agrega a las antiguas ESRI614 y ESRI615 declaradas en la misma fecha y por el mismo parámetro, afectaban a una única masa de agua.",1,28773
+ESRI2015,ESRI617,AGGREGATION,"La ESRI2015 agrega a las antiguas ESRI 616 y la ESRI 617, declaradas en la misma fecha y por el mismo parámetro y afectaban a una única masa de agua.",1,28773
+ESCM2015,ESCM616,AGGREGATION,La zona de captación ESCM2015 resulta de agregar las antiguas ESCM616 y ESCM617.,1,28773
+ESCM2015,ESCM617,AGGREGATION,La zona de captación ESCM2015 resulta de agregar las antiguas ESCM616 y ESCM617.,1,28773
+ESRI2013,ESRI485,AGGREGATION,"La ESRI2013 agrega a las antiguas ESRI 485 y la ESRI 486, declaradas en la misma fecha y por el mismo parámtero, afectaban a una única masa de agua.",1,28773
+ITCA99Q15SA001,ITCA99Q15SA001,CHANGEGEOMETRY,,IT006,28830
+ITCA99Q15SA002,ITCA99Q15SA001,SPLITTING,,IT006,28830
+ITCA99Q15SA004,ITCA99SA10000002,SPLITTING,,IT006,28830
+ITCA99Q15SA003,ITCA99SA10000002,SPLITTING,,IT006,28830
+ITCA99Q15SA005,ITCA99SA10000002,SPLITTING,,IT006,28830
+UKRISC9127114,UKRISC9127114,Deletion,Revoked,UK5,28754
+UKCMSC9127127,UKCMSC9127127,Deletion,Revoked,UK5,28754
+UKRISC9127125,UKRISC9127125,Deletion,Freshwater Fish Directive Revoked,UK5,28754
+UKRISC9127133,UKRISC9127133,Deletion,Freshwater Fish Directive Revoked,UK5,28754
+UKRISC9127124,UKRISC9127124,Deletion,Freshwater Fish Directive Revoked,UK5,28754

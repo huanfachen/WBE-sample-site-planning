@@ -1,0 +1,8 @@
+downloaded data/eea.europa.eu/waterbase_v1_csv.
+downloaded data/eea.europa.eu/waterbase_v2_csv.
+downloaded data/eea.europa.eu/waterbase_v3_csv.
+downloaded data/eea.europa.eu/waterbase_v4_csv.
+downloaded data/eea.europa.eu/waterbase_v5_csv.
+downloaded data/eea.europa.eu/waterbase_v6_csv.
+downloaded data/eea.europa.eu/waterbase_v7_csv.
+failed to download version 8 from https://web.archive.org/web/20230316164256if_/https://www.eea.europa.eu/data-and-maps/data/waterbase-uwwtd-urban-waste-water-treatment-directive-7/waterbase-uwwtd/waterbase-uwwtd-csv-files/at_download/file: <urlopen error [Errno 61] Connection refused>
